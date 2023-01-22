@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+}
+span{
+  score:"" ;
+    font-size: 17px;
+    margin-left: 50px;
+}
+span{
+    time:"";
+    font-size: 17px;
+    float: right;
+    margin-right: 50px;
+}
+span{
+    sketch to be drawn:"";
+    text-decoration-color:red;
+}
